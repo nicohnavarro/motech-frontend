@@ -5,7 +5,8 @@
 
 ### 
 
-![principal]()
+![principal](https://github.com/nicohnavarro/motech-frontend/blob/master/src/assets/readme/inicio.PNG)
+![principal](https://github.com/nicohnavarro/motech-frontend/blob/master/src/assets/readme/tabla.PNG)
 
 
 ## Autor ✒️
