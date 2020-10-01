@@ -8,7 +8,6 @@
 ![principal](https://github.com/nicohnavarro/motech-frontend/blob/master/src/assets/readme/inicio.PNG)
 ![principal](https://github.com/nicohnavarro/motech-frontend/blob/master/src/assets/readme/table.PNG)
 
-
 ## Autor ✒️
 
 _desarrollado por_
